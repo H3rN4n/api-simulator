@@ -15,7 +15,7 @@ jQuery.fn.extend({
   contentReloader: {
 	    call: function(url, element, extraparams){
 	    	var ctx = this;
-        $.ajax({
+        	$.ajax({
 	    		url: url,
 	    		type: 'GET',
 	    		dataType: 'html',

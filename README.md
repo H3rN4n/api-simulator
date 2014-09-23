@@ -1,4 +1,4 @@
 api-simulator
 =============
 
-Jquery Plugin that simulate a api reload behavior in a site how works entirely in backend
+Jquery Plugin that simulates an api reload behavior in a site how works entirely in backend
